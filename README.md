@@ -18,5 +18,9 @@ The Traffic Sign Recognition System is an advanced AI-powered application that a
 - 🔹 **Machine Learning**: TensorFlow, Keras, Scikit-learn
 - 🔹 **Dataset Processing**: OpenCV, NumPy, Pandas
 
+## 📌 Dataset  
+You can download the dataset used for training the model from the following link:  
+[📂 Traffic Sign Dataset](https://drive.google.com/file/d/1yq1QKaKxueM9SYZBD68_FSqisYiLXrT4/view?usp=sharing)  
+
 ## 📸 How It Works 
 - Upload an image of a traffic sign. The model preprocesses the image and classifies it. The predicted traffic sign is displayed on the screen.
