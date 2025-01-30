@@ -1,4 +1,4 @@
-# 🚦 Traffic Sign Recognition System using Deep Learning
+# 🚦 Traffic Sign Recognition System
 
 ## 🔍 Overview
 The Traffic Sign Recognition System is an advanced AI-powered application that accurately classifies traffic signs using a deep learning model trained on real-world datasets. This system can assist in autonomous driving, road safety applications, and smart traffic management by identifying road signs.
