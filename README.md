@@ -23,4 +23,4 @@ You can download the dataset used for training the model from the following link
 [📂 Traffic Sign Dataset](https://drive.google.com/file/d/1yq1QKaKxueM9SYZBD68_FSqisYiLXrT4/view?usp=sharing)  
 
 ## 📸 How It Works 
-- Upload an image of a traffic sign. The model preprocesses the image and classifies it. The predicted traffic sign is displayed on the screen.
+- Upload an image of a traffic sign. The model preprocesses the image and classifies it. The predicted traffic sign is displayed on the screen
