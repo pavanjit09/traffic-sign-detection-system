@@ -10,7 +10,7 @@ from werkzeug.utils import secure_filename
 
 app = Flask(__name__)
 
-MODEL_PATH = 'model.keras'
+MODEL_PATH = 'model.h5'
 
 model = load_model(MODEL_PATH)
 
