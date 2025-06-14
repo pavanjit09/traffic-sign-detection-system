@@ -17,7 +17,7 @@ You can download the dataset used for training the model from the following link
 - ✅ **Optimized Performance** – Reduces inference time for faster results
 
 ## 🛠️ Tech Stack
-- 🔹 **Frontend**: HTML, CSS, Bootstrap
+- 🔹 **Frontend**: HTML, CSS
 - 🔹 **Backend**: Flask
 - 🔹 **Machine Learning**: TensorFlow, Keras, Scikit-learn
 - 🔹 **Dataset Processing**: OpenCV, NumPy, Pandas
